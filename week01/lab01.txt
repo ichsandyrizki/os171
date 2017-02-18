@@ -20,3 +20,5 @@ drwxr-xr-x  2 ichsandy.rizki StafCS 4096 Feb 18 14:39 week09
 drwxr-xr-x  2 ichsandy.rizki StafCS 4096 Feb 18 14:39 week10
 drwxr-xr-x  2 ichsandy.rizki StafCS 4096 Feb 18 14:39 xtra
 /home/fasilkom/mahasiswa/i/ichsandy.rizki/os171/week01
+Today is 
+Today is 18 Feb 2017 at 14:55:35
