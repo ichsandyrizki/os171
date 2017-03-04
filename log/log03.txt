@@ -1,0 +1,5 @@
+w03-170228-10-LR-About:UEFI and Upstart ,From:Lecturer
+w03-170228-10-LR-About:UEFI and Upstart ,From:Lucturer
+w03-170228-11-LR-About:BIOS and Booting ,From:Lucturer
+w03-170228-11-LR-About:BIOS and Booting ,From:Lucturer
+w03-170302-10-DS-About:Discuss BIOS Scripting
