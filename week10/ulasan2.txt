@@ -1,5 +1,6 @@
-Github Account : ichsandy
-URL Ulasan : http://ichsandyrizky.blogspot.co.id/2017/05/memory-and-cpu.html
+
+Github Account : ichsandyrizki
+URLUlasan : http://ichsandyrizky.blogspot.co.id/2017/05/sistem-operasi-unix.html
 URL Video : https://youtu.be/eO_Nu1Eu1cM
 Video Author : Nolen Felten
 Pemetaan : week05
